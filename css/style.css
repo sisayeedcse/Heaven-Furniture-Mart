@@ -17,7 +17,7 @@
   --muted: #65716E;
   --muted-light: #8F9B97;
   --white: #FFFFFF;
-  --font-display: 'Montserrat', sans-serif;
+  --font-display: 'Cormorant Garamond', serif;
   --font-body: 'Inter', sans-serif;
   --font-script: 'Great Vibes', cursive;
   --space-xs: 8px;
@@ -407,4 +407,5 @@ address { font-style: normal; }
 :focus-visible { outline: 3px solid var(--gold-500); outline-offset: 2px; }
 .skip-link { position: absolute; top: -100%; left: var(--space-sm); background: var(--gold-500); color: var(--charcoal); padding: 8px 16px; font-size: 13px; font-weight: 700; border-radius: var(--radius); z-index: 999; }
 .skip-link:focus { top: var(--space-sm); }
+
 
