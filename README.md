@@ -1,6 +1,6 @@
 ﻿# Heaven Furniture Mart — RacDox Hackathon Submission 🏆
 
-![Heaven Furniture Mart](images/heaven%20furniture%20mart%20logo.jpg)
+![Heaven Furniture Mart](images/heaven%20furniture%20mart.png)
 
 A premium, bespoke landing page built for **Heaven Furniture Mart**, a luxury furniture and interior styling company based in Chattogram, Bangladesh. 
 
